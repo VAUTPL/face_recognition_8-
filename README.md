@@ -1,4 +1,4 @@
-# face_recognition_8-
+## face_recognition_8-
 ####Develop an application for face recognition using fisherfaces algoritm
 ###UTPL 
 #######Professor: Rodrigo Barba lrbarba@utpl.edu.ec 
@@ -40,14 +40,14 @@ To run the application, follow these instructions:
 
 1. By means of the terminal we raise the virtual environment with the command:
 
-$ mkvirtualenv cv
+◦ $ mkvirtualenv cv
 
 2. We execute the training to include faces to the database with the command:
 
-$ python capture.py &lt;Name of the person> 
+◦ $ python capture.py &lt;Name of the person> 
 
 -We must be inside the directory where we have the necessary files for the application
 
 3. To start the reconnaissance, we execute the command:
 
-$ python  reconocimiento.py
+◦ $ python  reconocimiento.py
