@@ -3,8 +3,8 @@
 ###UTPL 
 ###### Professor: Rodrigo Barba lrbarba@utpl.edu.ec 
 ###### Students: 
-#######Cristian Ortiz Celi ceortiz2@utpl.edu.ec 
-#######Carlos Saca Japa cfsaca@utpl.edu.ec 
+###### ◦ Cristian Ortiz Celi ceortiz2@utpl.edu.ec 
+###### ◦ Carlos Saca Japa cfsaca@utpl.edu.ec 
 
 ####FACIAL RECOGNITION APLICATION WHIT FISHERFACES ALGORITM  
 
