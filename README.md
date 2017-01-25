@@ -1,14 +1,16 @@
 # face_recognition_8-
-##Develop an application for face recognition using fisherfaces algoritm
-#UTPL 
-#Professor: Rodrigo Barba lrbarba@utpl.edu.ec 
+####Develop an application for face recognition using fisherfaces algoritm
+####UTPL 
+#######Professor: Rodrigo Barba lrbarba@utpl.edu.ec 
 #Students: 
-###Cristian Ortiz Celi ceortiz2@utpl.edu.ec 
-###Carlos Saca Japa cfsaca@utpl.edu.ec 
-#FACIAL RECOGNITION APLICATION WHIT FISHERFACES ALGORITM  
+#######Cristian Ortiz Celi ceortiz2@utpl.edu.ec 
+#######Carlos Saca Japa cfsaca@utpl.edu.ec 
+
+####FACIAL RECOGNITION APLICATION WHIT FISHERFACES ALGORITM  
+
 This work is done in order to put practical knowledge of machine vision using OpenCV and Pyhton, it can be edited and modified by anyone interested in improving it. It was designed with the purpose of recognizing faces that previously program the stores in a database to then make the comparison and present a result in real time 
 
-#System Requirements 
+###System Requirements 
 #####An i3 or better processor. The faster the better, especially at high video resolutions. 
 #####2 GB or more RAM memory. 
 #####At least 100 MB Free Disk space  
@@ -16,7 +18,7 @@ This work is done in order to put practical knowledge of machine vision using Op
 #####Python 2.7+ Open CV 3.0.0 
 #####Web cam. 
 
-#Installation on Ubuntu 16.04 1.  
+###Installation on Ubuntu 16.04 1.  
 First, one should install the following libraries:  
 #####OpenCV version 3.0 
 #####Python 2.7+  
@@ -34,16 +36,16 @@ First, one should install the following libraries:
 #Running
 To run the application, follow these instructions: 
 
-1.By means of the terminal we raise the virtual environment with the command:
+1. By means of the terminal we raise the virtual environment with the command:
 
-###$ mkvirtualenv cv
+$ mkvirtualenv cv
 
-2.We execute the training to include faces to the database with the command:
+2. We execute the training to include faces to the database with the command:
 
-###$ python capture.py &lt;Name of the person> 
+$ python capture.py &lt;Name of the person> 
 
 -We must be inside the directory where we have the necessary files for the application
 
-3.To start the reconnaissance, we execute the command:
+3. To start the reconnaissance, we execute the command:
 
-###$ python  reconocimiento.py
+$ python  reconocimiento.py
