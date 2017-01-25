@@ -32,15 +32,17 @@ First, one should install the following libraries:
 ◦ Download the repository as a .zip or .tar.gz and then extract it. 
 
 #Running
-##To run the application, follow these instructions: 
+To run the application, follow these instructions: 
 
-##By means of the terminal we raise the virtual environment with the command 
+By means of the terminal we raise the virtual environment with the command 
 
 ###$ mkvirtualenv cv
 
 We execute the training to include faces to the database with the command 
 
-###$ python capture.py &lt;Name of the person> we must be inside the directory where we have the necessary files for the application
+###$ python capture.py &lt;Name of the person> 
+
+we must be inside the directory where we have the necessary files for the application
 
 To start the reconnaissance, we execute the command 
 
