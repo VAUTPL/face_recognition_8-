@@ -1,8 +1,8 @@
 ## face_recognition_8-
 ####Develop an application for face recognition using fisherfaces algoritm
 ###UTPL 
-####### Professor: Rodrigo Barba lrbarba@utpl.edu.ec 
-####### Students: 
+###### Professor: Rodrigo Barba lrbarba@utpl.edu.ec 
+###### Students: 
 #######Cristian Ortiz Celi ceortiz2@utpl.edu.ec 
 #######Carlos Saca Japa cfsaca@utpl.edu.ec 
 
